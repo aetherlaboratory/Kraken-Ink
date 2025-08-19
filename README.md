@@ -1,2 +1,2 @@
-# krakenink
+# Kraken Ink
 Tattoos/Tattoo Flashes
